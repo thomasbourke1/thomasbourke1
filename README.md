@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomasbourke1
-- 👀 I’m interested in novel computing, open hardware
+- 👀 I’m interested in quantum tech
 - 🌱 I’m currently learning ... a lot of things...
 - 💞️ I’m looking to collaborate on ... not much at the moment
 
