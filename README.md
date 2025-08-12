@@ -20,7 +20,7 @@
 
 ## 📫 Where to find me
 - Website: https://thomasbourke1.github.io
-- LinkedIn: [Thomas Bourke](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Thomas Bourke](https://www.linkedin.com/in/thomas-george-bourke/)
 - Bluesky: [@tgb314.co.uk](https://bsky.app/profile/tgb314.co.uk)  
 - Mail: thomas [DOT] bourke1 [AT] outlook [DOT] com
 
