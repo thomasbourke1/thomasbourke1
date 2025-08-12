@@ -1,9 +1,49 @@
-- 👋 Hi, I’m @thomasbourke1
-- 👀 I’m interested in quantum tech
-- 🌱 I’m currently learning ... a lot of things...
-- 💞️ I’m looking to collaborate on ... not much at the moment
+# Hi there 👋 I'm Thomas!
 
-<!---
-thomasbourke1/thomasbourke1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Short tagline -->
+**PhD candidate in quantum optics at Cambridge** — passionate about quantum computing and communications, semiconductor device physics, single-photon sensors.
+
+---
+
+## 🔭 About Me
+- 🔭 I’m currently working on: Developing single-photon avalanche diodes with Toshiba
+- 🌱 I’m learning: **Semiconductor device fabrication**
+
+---
+
+## 🛠️ Tech & Tools
+**Languages:** `Python` `C++` `Matlab` 
+**Data / Infra:** `SQL` 
+**Tools:** `Git` `GitHub` `VSCode` `Linux`
+
+---
+
+## 📫 Where to find me
+- Website: https://thomasbourke1.github.io
+- LinkedIn: [Thomas Bourke](https://linkedin.com/in/yourprofile)
+- Bluesky: [@tgb314.co.uk](https://bsky.app/profile/tgb314.co.uk)  
+- Mail: thomas [DOT] bourke1 [AT] outlook [DOT] com
+
+> The best way to reach me is to send me an email
+
+---
+
+## 📈 GitHub Stats
+<!-- You can use services like GitHub Readme Stats or GitHub Activity Graph here.
+Example (replace with your badges/snippets): -->
+![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## ✨ Currently reading / watching
+- 📚 The Stormlight Archive by Brandon Sanderson — Bridge Four 🤜🤛
+
+---
+
+## ❤️ Support & Contact
+If you find my projects useful — a ⭐ on them helps!  
+Want to work together? Reach out via email or LinkedIn.
+
+---
+
+*Last updated: 2025-08-12*
