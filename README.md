@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Thomas!
 
 <!-- Short tagline -->
-**PhD candidate in quantum optics at Cambridge** — passionate about quantum computing and communications, semiconductor device physics, single-photon sensors.
+**PhD candidate in quantum optics at the University of Cambridge** — passionate about quantum computing and communications, semiconductor device physics, single-photon sensors.
 
 ---
 
