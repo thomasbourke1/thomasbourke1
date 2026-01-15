@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Thomas!
 
 <!-- Short tagline -->
-**PhD candidate in quantum optics at the University of Cambridge** — passionate about quantum computing and communications, semiconductor device physics, single-photon sensors.
+**PhD candidate in semiconductor physics (SP) group at the University of Cambridge** — passionate about quantum optics and networks, semiconductor device physics, single-photon sensors.
 
 ---
 
@@ -21,17 +21,10 @@
 ## 📫 Where to find me
 - Website: https://thomasbourke1.github.io
 - LinkedIn: [Thomas Bourke](https://www.linkedin.com/in/thomas-george-bourke/)
-- Bluesky: [@tgb314.co.uk](https://bsky.app/profile/tgb314.co.uk)  
-- Mail: thomas [DOT] bourke1 [AT] outlook [DOT] com
+- Bluesky: [thomasbourke1.bsky.social](https://bsky.app/profile/thomasbourke1.bsky.social)  
+- Mail: tgb42 [AT] cam [DOT] ac [DOT] uk
 
 > The best way to reach me is to send me an email
-
----
-
-## 📈 GitHub Stats
-<!-- You can use services like GitHub Readme Stats or GitHub Activity Graph here.
-Example (replace with your badges/snippets): -->
-![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
@@ -45,5 +38,3 @@ If you find my projects useful — a ⭐ on them helps!
 Want to work together? Reach out via email or LinkedIn.
 
 ---
-
-*Last updated: 2025-08-12*
