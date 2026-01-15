@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Thomas!
 
 <!-- Short tagline -->
-**PhD candidate in semiconductor physics (SP) group at the University of Cambridge** — passionate about quantum optics and networks, semiconductor device physics, single-photon sensors.
+**PhD candidate in the semiconductor physics (SP) group at the University of Cambridge** — passionate about quantum optics and networks, semiconductor device physics, single-photon sensors.
 
 ---
 
 ## 🔭 About Me
-- 🔭 I’m currently working on: Developing single-photon avalanche diodes with Toshiba
+- 🔭 I’m currently working on: Developing single-photon avalanche diodes for deployment in quantum network systems
 - 🌱 I’m learning: **Semiconductor device fabrication**
 
 ---
