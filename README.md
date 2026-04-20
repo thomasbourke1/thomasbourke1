@@ -7,7 +7,7 @@
 
 ## 🔭 About Me
 - 🔭 I’m currently working on: Developing single-photon avalanche diodes for deployment in quantum network systems
-- 🌱 I’m learning: **Semiconductor device fabrication**
+- 🌱 I’m learning: **device characterization and simulation**
 
 ---
 
