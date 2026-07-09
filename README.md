@@ -20,8 +20,7 @@
 
 ## 📫 Where to find me
 - Website: https://thomasbourke1.github.io
-- LinkedIn: [Thomas Bourke](https://www.linkedin.com/in/thomas-george-bourke/)
-- Bluesky: [thomasbourke1.bsky.social](https://bsky.app/profile/thomasbourke1.bsky.social)  
+- LinkedIn: [Thomas Bourke](https://www.linkedin.com/in/thomas-george-bourke/) 
 - Mail: tgb42 [AT] cam [DOT] ac [DOT] uk
 
 > The best way to reach me is to send me an email
@@ -30,6 +29,7 @@
 
 ## ✨ Currently reading / watching
 - 📚 The Stormlight Archive by Brandon Sanderson — Bridge Four 🤜🤛
+- Find my reading list [here](https://thomtalks.substack.com/p/my-reading-list)
 
 ---
 
