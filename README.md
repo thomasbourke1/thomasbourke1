@@ -19,7 +19,7 @@
 ---
 
 ## 📫 Where to find me
-- Website: https://thomasbourke1.github.io
+- Academic website: https://thomasbourke1.github.io
 - LinkedIn: [Thomas Bourke](https://www.linkedin.com/in/thomas-george-bourke/) 
 - Mail: tgb42 [AT] cam [DOT] ac [DOT] uk
 
